@@ -4,6 +4,8 @@
 
 ## 🏆 **Gen-a-thon 2.0 Winning Project**
 This AI-powered telecalling analysis system is designed to revolutionize enterprise call monitoring with real-time transcription, emotion detection, multilingual translation, and in-depth analytics. We developed **every feature with absolute precision**, leading us to **first place** in Gen-a-thon 2.0! 🎉
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/43a1ec0b-c9f0-448e-b879-04589fb2f91a" />
+
 
 ---
 ## 📌 **Core Features**
